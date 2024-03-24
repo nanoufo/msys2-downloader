@@ -1,5 +1,8 @@
 # msys2-downloader
 
+# DEPRECATED. Use [msys2dl](https://github.com/nanoufo/msys2dl) instead.
+
+
 This tool is designed for downloading, extracting MSYS2 packages and converting them to Debian packages for use in cross-compiling. While you won't be able to run executable files, you'll have access to includes and libraries to link against. 
 
 ## How to install
